@@ -4904,4 +4904,7 @@
 
     <!-- Text to display in regulatory info screen (from device overlay). -->
     <string name="regulatory_info_text"></string>
+
+<!-- Status bar double-tap to sleep 'dirty'-->
+    <string name="status_bar_double_tap_to_sleep_title">Double-tap to sleep</string>
 </resources>
