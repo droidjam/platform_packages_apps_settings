@@ -62,8 +62,6 @@ public class DisplaySettings extends SettingsPreferenceFragment implements
     private WarnedListPreference mFontSizePref;
     private CheckBoxPreference mNotificationPulse;
 
-
-    private PreferenceScreen mNotificationPulse;
     private PreferenceScreen mBatteryPulse;
     // Double-tap to sleep
     private CheckBoxPreference mStatusBarDoubleTapSleepGesture;
