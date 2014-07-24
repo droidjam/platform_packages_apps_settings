@@ -304,7 +304,7 @@ public class DisplaySettings extends SettingsPreferenceFragment implements
             Settings.System.putInt(getContentResolver(), Settings.System.NOTIFICATION_LIGHT_PULSE,
                     value ? 1 : 0);
             return true;
-        }
+
         } else if (preference == mStatusBarDoubleTapSleepGesture) {
 		boolean value;
             value = mStatusBarDoubleTapSleepGesture.isChecked();
